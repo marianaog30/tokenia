@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-10T02:00:56.297Z",
+  "checks": [
+    "Conteos 16/61/278/3142",
+    "SHA-256 iguales a Node crypto",
+    "24 filas, 8 pendientes",
+    "18.9435 USD = 348.86917905 MXN",
+    "Umbral Gemini >200k",
+    "Volumen decimal rechazado",
+    "CRLF, emoji, literales especiales y vacíos"
+  ],
+  "counts": {
+    "ic": 16,
+    "il": 61,
+    "oc": 278,
+    "ol": 3142
+  },
+  "usd": "18.9435",
+  "mxn": "348.86917905"
+}
