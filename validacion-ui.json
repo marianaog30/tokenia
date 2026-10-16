@@ -9,6 +9,9 @@
     "JSON exportado conserva preferencias",
     "HTML descargado reabre con usuario y temática",
     "Informe HTML conserva usuario y temática",
-    "Sin errores de consola"
+    "Sin errores de consola",
+    "Destinatario y temática ajustan el contexto del informe",
+    "Exportación financiera incluye propósito y notas seleccionados",
+    "Cálculo 16/48 y USD 0.3120 conservado"
   ]
 }

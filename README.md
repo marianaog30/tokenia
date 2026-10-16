@@ -19,8 +19,9 @@ Repositorio esperado: `marianaog30/tokenia`. Rama `main`. En Settings → Pages,
 
 
 ## Personalización y selección de modelos
-Actualización del 16/10/2026: usa Motor / modelo para elegir qué modelo editar. Al elegirlo se añade a la comparación; los botones superiores permiten volver a los ya incluidos. Puedes excluirlo con la casilla o comparar solo el modelo seleccionado. El catálogo mantiene modelos disponibles al abrir proyectos anteriores.
 
-En Haz TOKENIA tuyo puedes elegir Avengers, Rubí, Bosque u Océano, el usuario final o cliente y el uso personal, de cliente, equipo o académico. No crea una cuenta ni autenticación. La configuración se guarda en el JSON; la descarga de la calculadora incorpora nombre y temática, mientras que los textos del proyecto se conservan por separado en Guardar proyecto. El informe HTML también conserva nombre y temática.
+Actualización del 16/10/2026. Configura tu informe incluye Proyecto, ¿Para quién es el informe? y Temática del informe. Los destinatarios son Dirección de operaciones, Dirección general, Finanzas y presupuesto, Equipo técnico, Cliente, Audiencia académica o Uso personal. Las temáticas son Académica, Ejecutiva, Financiera, Técnica y Comercial. Cambian el objetivo y las notas de lectura del informe, conservando los mismos cálculos. El nombre opcional y la paleta visual están en un desplegable adicional. La selección se guarda en el JSON y en la calculadora descargada; el contexto seleccionado también aparece en el informe HTML exportado. No crea una cuenta ni autenticación.
 
-Validación: importación de proyecto anterior con 16/48 tokens y USD 0.3120 por 10,000 llamadas; catálogo de seis modelos; selección de Gemini con conteos pendientes; cuatro paletas; JSON exportado con preferencias; HTML personalizado reabierto con Cliente de prueba y Rubí; informe HTML con nombre y paleta.
+Motor / modelo elige qué modelo editar y lo añade a la comparación. Los botones de modelos incluidos permiten volver a ellos. Puedes excluir un modelo con la casilla o comparar solo el seleccionado. Abrir un proyecto anterior mantiene el catálogo disponible.
+
+Validación: proyecto anterior con 16/48 tokens y USD 0.3120 por 10,000 llamadas; desplegable de seis modelos; selección de Gemini con conteos pendientes; cuatro paletas; exportación y reapertura de HTML personalizado; informe para Finanzas con temática Financiera que incluye Control del presupuesto y conserva los mismos importes.
