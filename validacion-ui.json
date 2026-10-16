@@ -29,6 +29,7 @@
     "MXN: conversión con FIX, independiente de la moneda de tabla",
     "JSON conserva presupuesto y reporte HTML conserva SVG y reserva",
     "15 verificaciones aritméticas de presupuesto con enteros de precisión arbitraria",
-    "Selector principal y botones de modelo sincronizan la A: 81% gpt-4o-mini, 49% gpt-4.1-mini; Claude sin conteos muestra pendiente"
+    "Selector principal y botones de modelo sincronizan la A: 81% gpt-4o-mini, 49% gpt-4.1-mini; Claude sin conteos muestra pendiente",
+    "Claude/Gemini: campos plegados por defecto, aviso visible; completar conteos cambia aviso y cuatro escenarios requiere cuatro conteos"
   ]
 }
