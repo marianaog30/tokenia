@@ -35,3 +35,6 @@ Las tarifas no cambiaron frente a la muestra original; se verificó de nuevo su 
 
 ## Tabla comparativa
 La tabla agrupa las filas por escenario y muestra tokens de entrada/salida por modelo, costo por llamada, volúmenes y diferencia respecto al menor costo. La moneda aparece en el título de tabla. El menor costo se identifica con ▲ y una etiqueta textual. Se eliminó la información del tokenizador de esta tabla; el método y la evidencia siguen disponibles en la sección de auditoría. Los conteos faltantes permanecen pendientes. La tabla es desplazable con teclado y conserva encabezados y grupos al exportarse al informe HTML.
+
+## Reserva de presupuesto
+La A inspirada en Avengers se llena con el porcentaje restante del presupuesto para el modelo, escenario y volumen elegidos. Define importe y moneda USD/MXN; MXN usa el FIX con fecha visible. Muestra reserva, consumo y déficit. Sin presupuesto o conteos completos, indica pendiente. Guarda la configuración en el proyecto JSON y la vista en el informe HTML. El porcentaje es una proyección textual, no consumo facturado.

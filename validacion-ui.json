@@ -21,6 +21,13 @@
     "Cuatro filas destacadas de menor costo",
     "Tabla sin columna ni etiquetas del tokenizador",
     "Importe USD 18.9435 y MXN 349.0340 conservados para 10000 llamadas, escenario A",
-    "Informe exportado conserva cuatro grupos y moneda MXN"
+    "Informe exportado conserva cuatro grupos y moneda MXN",
+    "A Avengers: llenado proporcional a presupuesto restante",
+    "USD 100 menos proyecto 18.9435: reserva 81.0565, indicador 81%",
+    "USD 10: déficit 8.9435 e indicador 0%",
+    "Claude sin conteos: medidor pendiente",
+    "MXN: conversión con FIX, independiente de la moneda de tabla",
+    "JSON conserva presupuesto y reporte HTML conserva SVG y reserva",
+    "15 verificaciones aritméticas de presupuesto con enteros de precisión arbitraria"
   ]
 }
