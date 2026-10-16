@@ -25,3 +25,5 @@ Actualización del 16/10/2026. Configura tu informe incluye Proyecto, ¿Para qui
 Motor / modelo elige qué modelo editar y lo añade a la comparación. Los botones de modelos incluidos permiten volver a ellos. Puedes excluir un modelo con la casilla o comparar solo el seleccionado. Abrir un proyecto anterior mantiene el catálogo disponible.
 
 Validación: proyecto anterior con 16/48 tokens y USD 0.3120 por 10,000 llamadas; desplegable de seis modelos; selección de Gemini con conteos pendientes; cuatro paletas; exportación y reapertura de HTML personalizado; informe para Finanzas con temática Financiera que incluye Control del presupuesto y conserva los mismos importes.
+
+La paleta visual de Avengers se mantiene fija por indicación de Mariana Orozco. Los proyectos con otras paletas se adaptan a Avengers al abrirse. Los desplegables de destinatario y temática del informe permanecen disponibles.
