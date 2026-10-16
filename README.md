@@ -16,3 +16,11 @@ Repositorio esperado: `marianaog30/tokenia`. Rama `main`. En Settings → Pages,
 
 ## Verificación
 `validacion.json` registra comprobaciones de conteos, SHA-256, costes y conversión. Ejemplo: 61 entrada y 3142 salida a 0.15/0.60 USD por millón → 18.9435 USD por 10,000 llamadas; FIX 18.4163 → 348.86917905 MXN. Se redondea al presentar.
+
+
+## Personalización y selección de modelos
+Actualización del 16/10/2026: usa Motor / modelo para elegir qué modelo editar. Al elegirlo se añade a la comparación; los botones superiores permiten volver a los ya incluidos. Puedes excluirlo con la casilla o comparar solo el modelo seleccionado. El catálogo mantiene modelos disponibles al abrir proyectos anteriores.
+
+En Haz TOKENIA tuyo puedes elegir Avengers, Rubí, Bosque u Océano, el usuario final o cliente y el uso personal, de cliente, equipo o académico. No crea una cuenta ni autenticación. La configuración se guarda en el JSON; la descarga de la calculadora incorpora nombre y temática, mientras que los textos del proyecto se conservan por separado en Guardar proyecto. El informe HTML también conserva nombre y temática.
+
+Validación: importación de proyecto anterior con 16/48 tokens y USD 0.3120 por 10,000 llamadas; catálogo de seis modelos; selección de Gemini con conteos pendientes; cuatro paletas; JSON exportado con preferencias; HTML personalizado reabierto con Cliente de prueba y Rubí; informe HTML con nombre y paleta.

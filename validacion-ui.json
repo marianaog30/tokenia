@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-16",
+  "checks": [
+    "Desplegable de seis modelos",
+    "Edición de un modelo a la vez",
+    "Comparación múltiple conservada",
+    "Importación de proyecto anterior: 16/48 tokens y USD 0.3120 por 10000",
+    "Paletas Avengers, Rubí, Bosque, Océano",
+    "JSON exportado conserva preferencias",
+    "HTML descargado reabre con usuario y temática",
+    "Informe HTML conserva usuario y temática",
+    "Sin errores de consola"
+  ]
+}
