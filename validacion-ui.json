@@ -16,6 +16,11 @@
     "Claude: 5/25 USD, fecha 2026-10-16",
     "Gemini: 1.25/10 y umbral >200k 2.5/15",
     "Botón aplicar restablece tarifa editada de 6 a 5",
-    "Conteos nativos siguen pendientes; no se copian ejemplos de la web"
+    "Conteos nativos siguen pendientes; no se copian ejemplos de la web",
+    "Tabla: 24 filas agrupadas en cuatro escenarios de seis modelos",
+    "Cuatro filas destacadas de menor costo",
+    "Tabla sin columna ni etiquetas del tokenizador",
+    "Importe USD 18.9435 y MXN 349.0340 conservados para 10000 llamadas, escenario A",
+    "Informe exportado conserva cuatro grupos y moneda MXN"
   ]
 }
