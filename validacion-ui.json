@@ -12,6 +12,10 @@
     "Sin errores de consola",
     "Destinatario y temática ajustan el contexto del informe",
     "Exportación financiera incluye propósito y notas seleccionados",
-    "Cálculo 16/48 y USD 0.3120 conservado"
+    "Cálculo 16/48 y USD 0.3120 conservado",
+    "Claude: 5/25 USD, fecha 2026-10-16",
+    "Gemini: 1.25/10 y umbral >200k 2.5/15",
+    "Botón aplicar restablece tarifa editada de 6 a 5",
+    "Conteos nativos siguen pendientes; no se copian ejemplos de la web"
   ]
 }

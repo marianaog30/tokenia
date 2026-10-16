@@ -1,0 +1,23 @@
+{
+  "verified_date": "2026-10-16",
+  "currency": "USD",
+  "denominator": 1000000,
+  "mode": "API estándar, sin caché ni Batch",
+  "source": "https://gptforwork.com/tools/openai-chatgpt-api-pricing-calculator",
+  "prices": {
+    "claude-opus-5": {
+      "input": "5",
+      "output": "25",
+      "official": "https://platform.claude.com/docs/en/about-claude/pricing"
+    },
+    "gemini-2.5-pro": {
+      "input_up_to_200000": "1.25",
+      "output_up_to_200000_input": "10",
+      "input_over_200000": "2.5",
+      "output_over_200000_input": "15",
+      "official": "https://ai.google.dev/gemini-api/docs/pricing"
+    }
+  },
+  "token_counts": null,
+  "count_status": "La fuente de precios no proporciona conteos nativos para los textos del proyecto. No se copian los valores de ejemplo 100/500 de la página."
+}

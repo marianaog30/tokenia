@@ -27,3 +27,8 @@ Motor / modelo elige qué modelo editar y lo añade a la comparación. Los boton
 Validación: proyecto anterior con 16/48 tokens y USD 0.3120 por 10,000 llamadas; desplegable de seis modelos; selección de Gemini con conteos pendientes; cuatro paletas; exportación y reapertura de HTML personalizado; informe para Finanzas con temática Financiera que incluye Control del presupuesto y conserva los mismos importes.
 
 La paleta visual de Avengers se mantiene fija por indicación de Mariana Orozco. Los proyectos con otras paletas se adaptan a Avengers al abrirse. Los desplegables de destinatario y temática del informe permanecen disponibles.
+
+## Tarifas de Claude y Gemini verificadas el 16 de octubre de 2026
+Claude Opus 5: entrada 5 y salida 25 USD por millón. Gemini 2.5 Pro: entrada 1.25 y salida 10 USD por millón hasta 200,000 tokens de entrada; al superar ese umbral, 2.5 y 15. Fuente solicitada: GPT for Work; contraste oficial de Anthropic y Google. API estándar sin caché ni Batch.
+
+Las tarifas no cambiaron frente a la muestra original; se verificó de nuevo su vigencia y se agregó trazabilidad visible en cada modelo. El botón Aplicar tarifas verificadas permite llevarlas a un proyecto guardado sin sustituir automáticamente sus tarifas editadas. La fuente no cuenta los tokens nativos de los textos de un proyecto. Sus valores iniciales 100 de entrada y 500 de salida son datos de ejemplo y no se reutilizan como medición. Los conteos siguen pendientes hasta aportarlos del proveedor.
