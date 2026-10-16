@@ -38,3 +38,6 @@ La tabla agrupa las filas por escenario y muestra tokens de entrada/salida por m
 
 ## Reserva de presupuesto
 La A inspirada en Avengers se llena con el porcentaje restante del presupuesto para el modelo, escenario y volumen elegidos. Define importe y moneda USD/MXN; MXN usa el FIX con fecha visible. Muestra reserva, consumo y déficit. Sin presupuesto o conteos completos, indica pendiente. Guarda la configuración en el proyecto JSON y la vista en el informe HTML. El porcentaje es una proyección textual, no consumo facturado.
+
+## Descarga PDF
+El botón Descargar informe PDF genera directamente un archivo local con presupuesto, tabla comparativa, sensibilidad, fuentes, fecha FIX y textos originales. No requiere servidor de PDF ni envía los textos a terceros. Usa jsPDF 4.2.1 y jsPDF-AutoTable 5.0.9 integrados en el HTML. Páginas A4 horizontales y texto seleccionable; símbolos fuera de la fuente Times se sustituyen por [símbolo], sin alterar los conteos originales. Conserva el JSON para los originales exactos.

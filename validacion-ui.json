@@ -30,6 +30,11 @@
     "JSON conserva presupuesto y reporte HTML conserva SVG y reserva",
     "15 verificaciones aritméticas de presupuesto con enteros de precisión arbitraria",
     "Selector principal y botones de modelo sincronizan la A: 81% gpt-4o-mini, 49% gpt-4.1-mini; Claude sin conteos muestra pendiente",
-    "Claude/Gemini: campos plegados por defecto, aviso visible; completar conteos cambia aviso y cuatro escenarios requiere cuatro conteos"
+    "Claude/Gemini: campos plegados por defecto, aviso visible; completar conteos cambia aviso y cuatro escenarios requiere cuatro conteos",
+    "PDF directo descargado desde el navegador: 16 páginas A4 horizontales para muestra larga",
+    "PDF USD conserva 18.9435 de costo y 81.0565 de reserva",
+    "PDF MXN conserva 349.0340 de costo y 650.9660 de reserva con FIX 18.4250 fechado",
+    "Texto extraíble, 24 filas, conteos pendientes, fuentes, hashes y paginación presentes",
+    "Primera página, tabla y última página renderizadas e inspeccionadas: sin recortes"
   ]
 }
